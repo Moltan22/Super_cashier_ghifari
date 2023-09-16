@@ -3,7 +3,7 @@ Andi adalah seorang pemilik supermarket besar di salah satu kota di Indonesia. A
 Sehingga customer yang tidak berada di kota tersebut bisa membeli barang dari supermarket tersebut. Setelah Andi melakukan riset, ternyata Andi memiliki masalah, yaitu Andi membutuhkan Programmer untuk membuatkan fitur - fitur agar bisa sistem kasir self-service di supermarket itu bisa berjalan dengan lancar.
 
 # Requirements
-Dibutuhkan program yang dapat membantu customer membeli barang secara self-service menggunakan bahasa pemrograman Python yang diconvert dalam script dan dijalnkan dapat dijalankan oleh Jupyter Notebook:
+Dibutuhkan program yang dapat membantu customer membeli barang secara self-service menggunakan bahasa pemrograman Python yang diconvert dalam script dan dijalnkan dapat dijalankan sebagai modular codek:
 1. **modul_market_1** = 
 Compiled script dari semua fungsi yang dibutuhkan
 2. **main** = 
